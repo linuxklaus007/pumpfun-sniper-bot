@@ -10,7 +10,8 @@
 </p>
 
   > Telegram: @Meemic
-  > [pumpfun.bot](https://pumpfun.bot)
+>  [pumpfun.bot](https://pumpfun.bot)
+  
 
 
 
