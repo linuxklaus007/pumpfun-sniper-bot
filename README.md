@@ -11,7 +11,7 @@
 
   > Telegram: @Meemic
 > 
->  [pumpfun.bot](https://pumpfun.bot)
+> Website: [pumpfun.bot](https://pumpfun.bot)
   
 
 
