@@ -1,5 +1,7 @@
 <h1 align="center" >
-  ![logo](https://github.com/linuxklaus007/pumpfun-sniper-bot/assets/102965675/1cc8a864-5932-4e06-a888-a320bf5c1582)
+
+  <img src="https://github.com/linuxklaus007/pumpfun-sniper-bot/assets/102965675/1cc8a864-5932-4e06-a888-a320bf5c1582">
+
 </h1>
 
 
