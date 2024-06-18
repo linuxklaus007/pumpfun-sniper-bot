@@ -18,6 +18,8 @@
   > Telegram: @Meemic
 > 
 > Website: [pumpfun.bot](https://pumpfun.bot)
+> Online version: [pumpfun.fi](https://pumpfun.fi)
+
   
 
 
